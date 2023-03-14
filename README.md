@@ -13,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aseel hamada11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aseel hamada11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aseel-hamada5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aseel-hamada5" height="30" width="40" /></a>
 <a href="https://fb.com/aseel f.hamada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aseel f.hamada" height="30" width="40" /></a>
 <a href="https://instagram.com/aseel.f.ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aseel.f.ha" height="30" width="40" /></a>
 </p>
